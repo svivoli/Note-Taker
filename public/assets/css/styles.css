@@ -4,6 +4,23 @@ html, body {
   padding: 0;
 }
 
+.navbar {
+  background-image: linear-gradient(to left, #66A8FC 30%, #3B3B3B 70%, transparent), url('./img/irongrip.png');
+}
+
+.navbar-brand, .display-4 {
+  font-family: 'Covered By Your Grace', cursive;
+  text-transform: uppercase;
+}
+
+.jumbotron {
+  background-image: url('./img/cheap_diagonal_fabric.png')
+}
+
+.mt-4, .btn {
+  font-family: 'Encode Sans', sans-serif;
+}
+
 .save-note {
   display: none;
 }
@@ -26,12 +43,15 @@ html, body {
   resize: none;
   height: calc(100% - 63px);
   padding-top: 15px;
+  font-family: 'Encode Sans', sans-serif;
 }
 
 .note-title {
   height: 50px;
   margin-top: 13px;
   font-size: 3rem;
+  font-family: 'Covered By Your Grace', cursive;
+  text-transform: uppercase;
 }
 
 .note-title:read-only, .note-textarea:read-only {
@@ -47,6 +67,10 @@ html, body {
 
 .list-container {
   padding-left: 0;
+}
+
+.list-group {
+  font-family: 'Encode Sans', sans-serif;
 }
 
 .list-container .list-group,
