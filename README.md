@@ -16,6 +16,41 @@ To add a note:
 To delete a note:
 1. Click the red trash can icon next to the note you wish to delete.
 
+## Description
+
+A note taking application that allows users to create, save, and delete notes. This allows users to organize their thoughts and keep track of tasks.
+
+### Node Modules
+
+1. Express
+
+### Website Components
+
+1. Home page
+- Navbar
+- Title
+- Button to enter notes page
+2. Notes page
+- Navbar
+- Link to home page
+- Save button, write new note button
+- Saved notes list
+- New note inputs - title, text body
+- Saved note display
+3. Bootstrap
+4. Google Fonts
+5. FontAwesome icons
+
+## User Experience
+
+![Gif](note-taker-demo.gif)
+
+## Developer Experience
+
+After having completed the command line applications, the PDF Generator and the Team Builder, this project felt like less of a challenge. I am feeling comfortable with node and am enjoying exploring the versatility of api routes. I took some extra time to personalize the premade html files and had some fun playing with the fonts and design of the website. 
+
+--Sarah
+
 
 
 
