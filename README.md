@@ -2,8 +2,8 @@
 
 ## Links to project
 
-![Live site](https://aqueous-journey-39158.herokuapp.com/)
-![GitHub Repository](https://github.com/svivoli/Note-Taker)
+[Live site](https://aqueous-journey-39158.herokuapp.com/)  
+[GitHub Repository](https://github.com/svivoli/Note-Taker)
 
 ## Instructions
 
