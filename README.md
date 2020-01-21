@@ -1,10 +1,15 @@
 # Note-Taker
 
+## Links to project
+
+![Live site]()
+![GitHub Repository](https://github.com/svivoli/Note-Taker)
+
 ## Instructions
 
 1. With terminal pointing toward the project's directory, enter the following command:
 ```sh
-node server.js
+heroku local web
 ```
 - Terminal should return the message, "App listening on PORT 8080"
 2. Open up your browser and navigate to "localhost:8080"
