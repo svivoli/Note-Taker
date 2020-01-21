@@ -23,7 +23,7 @@ To add a note:
 To delete a note:  
 1. Click the red trash can icon next to the note you wish to delete.
   
-* To exit the application, press Control C in Terminal
+To exit the application, press Control C in Terminal
 
 ## Description
 
