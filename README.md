@@ -2,7 +2,7 @@
 
 ## Links to project
 
-[Live site](https://aqueous-journey-39158.herokuapp.com/)  
+[Live Site](https://aqueous-journey-39158.herokuapp.com/)  
 [GitHub Repository](https://github.com/svivoli/Note-Taker)
 
 ## Instructions
@@ -14,11 +14,11 @@ heroku local web
 - Terminal should return the message, "App listening on PORT ----"
 2. Open up your browser and navigate to "localhost:" followed by the port number that was returned in Terminal
 3. Click the "Get Started" button to open up the notes page
-To add a note:
+- To add a note:
 1. Enter in a note title and note text
 2. Click the save icon in the upper right corner of the page. Your note will be saved to the list on the left side of the page.
 * If you are viewing another note and wish to add a note, click the pencil icon in the upper right corner of the page and follow the above steps.
-To delete a note:
+- To delete a note:
 1. Click the red trash can icon next to the note you wish to delete.
 * To exit the application, press Control C in Terminal. 
 
@@ -55,7 +55,7 @@ A note taking application that allows users to create, save, and delete notes. T
 
 After having completed the command line applications, the PDF Generator and the Team Builder, this project felt like less of a challenge. I am feeling comfortable with node and am enjoying exploring the versatility of api routes. I took some extra time to personalize the premade html files and had some fun playing with the fonts and design of the website. 
 
---Sarah
+--Sarah Vivoli
 
 
 
