@@ -11,8 +11,8 @@
 ```sh
 heroku local web
 ```
-- Terminal should return the message, "App listening on PORT 8080"
-2. Open up your browser and navigate to "localhost:8080"
+- Terminal should return the message, "App listening on PORT ----"
+2. Open up your browser and navigate to "localhost:" followed by the port number that was returned in Terminal
 3. Click the "Get Started" button to open up the notes page
 To add a note:
 1. Enter in a note title and note text
@@ -20,6 +20,7 @@ To add a note:
 * If you are viewing another note and wish to add a note, click the pencil icon in the upper right corner of the page and follow the above steps.
 To delete a note:
 1. Click the red trash can icon next to the note you wish to delete.
+* To exit the application, press Control C in Terminal. 
 
 ## Description
 
