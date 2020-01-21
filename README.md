@@ -49,7 +49,7 @@ A note taking application that allows users to create, save, and delete notes. T
 
 ## User Experience
 
-![Gif](note-taker.gif)
+![Gif](note-taker-demo.gif)
 
 ## Developer Experience
 
